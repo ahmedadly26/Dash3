@@ -685,6 +685,7 @@ margin-left: -20px;}
     border-radius: 40px;
   margin-left: 390px;
   margin-top: -30px;
+  display: none;
   }
   
   .page .content .carts .cart1 i{
@@ -694,6 +695,8 @@ margin-left: -20px;}
   margin-left: 76px;
   margin-top: 4px;
   font-size: 18px;
+      display: none;
+
   }
   
   
